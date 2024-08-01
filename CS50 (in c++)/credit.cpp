@@ -1,9 +1,3 @@
-/*
-  Author- onenonlynitin
-  Problem- https://cs50.harvard.edu/x/2024/psets/1/credit/
-  Date- Aug 1, 2024
-*/
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -85,6 +79,7 @@ int main(void)
 {
 	while(true)
 	{
+		cout << "Number: ";
 		string str;
 		cin >> str;
 		
