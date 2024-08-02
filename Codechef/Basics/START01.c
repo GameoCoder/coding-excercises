@@ -1,6 +1,6 @@
 /*
   Author - AkaAbhinav
-  Problem - https://www.codechef.com/problems/FOODCOST
+  Problem - https://www.codechef.com/problems/START01
   Date - Aug 2 2024
 */
 
