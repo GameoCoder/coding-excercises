@@ -5,6 +5,8 @@
 */
 #include <stdio.h>
 
+#include <stdio.h>
+
 int main(void)
 {
     int t;
@@ -13,11 +15,15 @@ int main(void)
         scanf("%i", &t);
     }
     while (t < 1 || t > 50);
-    if (t > 35)
+    if (t > 30)
     {
         printf("Yes\n");
     }
     else
+    {
+        printf("No\n");
+    }
+}
     {
         printf("No\n");
     }
