@@ -1,3 +1,9 @@
+/*
+	Author - onenonlynitin
+	Problem - https://codeforces.com/problemset/problem/1571/A
+	Date - Aug 3, 2024
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
