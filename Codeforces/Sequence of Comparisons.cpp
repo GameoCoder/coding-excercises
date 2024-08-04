@@ -1,7 +1,7 @@
 /*
 	Author - onenonlynitin
-	Problem - https://codeforces.com/problemset/problem/1571/A
-	Date - Aug 3, 2024
+ 	Problem - https://codeforces.com/problemset/problem/1571/A
+  	Date - 4 Aug 2024
 */
 
 #include <bits/stdc++.h>
