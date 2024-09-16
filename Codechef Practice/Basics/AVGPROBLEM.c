@@ -1,4 +1,8 @@
-
+/*
+  Author - AkaAbhinav
+  Problem - https://www.codechef.com/problems/AVGPROBLEM
+  Date - Sep 16 2024
+*/
 #include <stdio.h>
 
 int main(void)
